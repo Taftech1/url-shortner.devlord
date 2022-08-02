@@ -131,7 +131,6 @@ button:hover {
 
 .url-shortner-col {
   box-sizing: border-box;
-  /* width: 80%; */
   padding: 23px 45px;
   margin: 0 auto;
   border-radius: 5px;
@@ -141,7 +140,7 @@ button:hover {
   background-position: 0 -20px;
   background-size: cover;
   position: relative;
-  top: -55px;
+  top: -65px;
 }
 
 .url-shortner-col input[type="url"] {
